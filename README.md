@@ -8,7 +8,7 @@
 - 雙擊執行 `install.bat`，自動安裝必要的 **Python 套件**。
 
 ## 3. 配置帳號檔案
-- 打開 `accounts.csv`，依以下格式填入帳號與密碼：
+- 打開 `accounts.csv`，依以下格式填入帳號與密碼：  
 email,password 
 example1@gmail.com,password1  
 example2@gmail.com,password2  
