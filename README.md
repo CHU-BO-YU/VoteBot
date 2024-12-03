@@ -36,3 +36,4 @@ example2@gmail.com,password2
 
 ## 聯繫支援
 若使用過程中遇到問題，請聯繫開發者提供技術支援。
+感謝ChatGPT全程協助。
