@@ -11,7 +11,7 @@
 - 打開 `accounts.csv`，依以下格式填入帳號與密碼：  
 email,password  
 example1@gmail.com,password1  
-example2@gmail.com,password2  
+example2@gmail.com,password2
 -確保檔案儲存為 UTF-8 格式。
 
 ## 4. 執行程式
